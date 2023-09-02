@@ -23,7 +23,7 @@
     "ds1621p_42218"  : "https://raw.githubusercontent.com/pocopico/tcrp-addons/main/virtio/recipes/v1000.json",
     "ds2422p_42218"  : "https://raw.githubusercontent.com/pocopico/tcrp-addons/main/virtio/recipes/v1000.json",
     "ds3617xs_42218" : "https://raw.githubusercontent.com/pocopico/tcrp-addons/main/virtio/recipes/broadwell.json",
-    "ds3622xsp_42218": "https://raw.githubusercontent.com/pocopico/tcrp-addons/main/virtio/recipes/broadwellnk.json",
+    "ds3622xsp_64570": "https://raw.githubusercontent.com/pocopico/tcrp-addons/main/virtio/recipes/broadwellnk.json",
     "ds1019p_42218"  : "https://raw.githubusercontent.com/pocopico/tcrp-addons/main/virtio/recipes/apollolake.json",
     "ds1520p_42962"  : "https://raw.githubusercontent.com/pocopico/tcrp-addons/main/virtio/recipes/geminilake.json",
     "fs2500_42962"   : "https://raw.githubusercontent.com/pocopico/tcrp-addons/main/virtio/recipes/v1000.json",    
